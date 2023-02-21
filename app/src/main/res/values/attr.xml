@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FileDescriptor">
+        <attr name="showInfoByDefault" format="boolean" />
+        <attr name="viewBackground" format="reference" />
+    </declare-styleable>
+</resources>
